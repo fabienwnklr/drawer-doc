@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[8345],{9806:e=>{e.exports=JSON.parse('{"title":"Examples","description":"Some samples for Drawer use","keywords":["examples","drawer"],"slug":"examples","permalink":"/docs/next/examples","navigation":{"next":{"title":"Basic drawer","permalink":"/docs/next/examples/basic"}}}')}}]);
